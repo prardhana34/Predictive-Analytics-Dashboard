@@ -86,11 +86,23 @@ Model accuracy is evaluated using:
 
 ## Screenshots
 
-> Add screenshots after running the dashboard. Recommended views:
-> - Main KPI overview and filter panel
-> - Historical trend and forecast comparison charts
-> - Model accuracy and correlation visuals
-> - Business insights and forecast download section
+### 📊 Dashboard Overview
+![Dashboard 1](dashboard3.1.png)
+
+### 📈 Forecast Trends
+![Dashboard 2](dashboard3.2.png)
+
+### 🔍 Data Analysis
+![Dashboard 3](dashboard3.3.png)
+
+### 📉 Model Comparison
+![Dashboard 4](dashboard3.4.png)
+
+### 💡 Business Insights
+![Dashboard 5](dashboard3.5.png)
+
+### ⬇️ Download Predictions
+![Dashboard 6](dashboard3.6.png)
 
 ## Technologies Used
 
